@@ -2,7 +2,7 @@
 - 👀 I’m looking to work with javascript
 - 🌱 I do work with react and vue on frontend and node js on backend
 - 💞️ I’m in love with javascript
-- 📫 How to reach me anything
+- 📫 How to reach me ==> (📱 +92302-5492180, 📧 zeeshanweb.official@gmail.com)
 
 <!---
 Awaiszeeshan/Awaiszeeshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
